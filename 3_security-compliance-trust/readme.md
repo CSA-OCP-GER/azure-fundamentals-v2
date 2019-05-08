@@ -9,14 +9,13 @@
 - Monitoring and reporting in Azure
 - Privacy, compliance and data protection standards in Azure
 
-
 ## Slides
 
 [slide deck](3_security-compliance-trust.pptx)
 
-## Exercise 1 - Monitor 
+## Exercise 1 - Monitor
 
-https://docs.microsoft.com/de-de/azure/azure-monitor/learn/quick-collect-azurevm
+<https://docs.microsoft.com/de-de/azure/azure-monitor/learn/quick-collect-azurevm>
 
 ## Quiz
 
@@ -27,5 +26,5 @@ https://docs.microsoft.com/de-de/azure/azure-monitor/learn/quick-collect-azurevm
 Links
 |Topic|Link|
 |-----|----|
-|Governance|https://docs.microsoft.com/de-de/learn/modules/intro-to-governance/|
-|Monitoring|https://docs.microsoft.com/de-de/learn/modules/design-for-efficiency-and-operations-in-azure/3-use-monitoring-and-analytics-to-gain-operational-insights|
+|Governance|<https://docs.microsoft.com/de-de/learn/modules/intro-to-governance/>|
+|Monitoring|<https://docs.microsoft.com/de-de/learn/modules/design-for-efficiency-and-operations-in-azure/3-use-monitoring-and-analytics-to-gain-operational-insights>|

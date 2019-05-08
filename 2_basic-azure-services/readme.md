@@ -1,20 +1,19 @@
 # Core Azure Services
 
-## Content:
+## Content
 
 - Core Azure architectural components
 - Core Azure services and products
 - Azure solutions
 - Azure management tools
 
-
 ## Slides
 
-[slide deck](2_basic-azure-servcies.pptx)
+[slide deck](2_basic-azure-services.pptx)
 
-## Exercise 1 - First Steps in Azure 
+## Exercise 1 - First Steps in Azure
 
-### Step 1 
+### Step 1
 
 Create a Network in Azure with the following parameter:
 
@@ -48,7 +47,6 @@ Links
 
 |Demo|Link|
 |----|----|
-|Deploy Storage|https://www.youtube.com/watch?v=Y8hz0oIuWDs|
-|Deploy VM| https://www.youtube.com/watch?v=rGGfRogOCJQ |
-|Customize the Azure Portal|https://www.youtube.com/watch?v=rGGfRogOCJQ|
-
+|Deploy Storage|<https://www.youtube.com/watch?v=Y8hz0oIuWDs>|
+|Deploy VM|<https://www.youtube.com/watch?v=rGGfRogOCJQ>|
+|Customize the Azure Portal|<https://www.youtube.com/watch?v=rGGfRogOCJQ>|
