@@ -11,4 +11,4 @@ The bootcamp is divided into four modules:
 
 All modules will have a small quiz at the end to check your earned knowledge.
 
-To start into the hands-on parts it will be helpful to have a Azure Subscription. If you don't have one - please use our Azure Free Trail account opportunity (https://azure.microsoft.com/de-de/free/).
+To start into the hands-on parts it will be helpful to have a Azure Subscription. If you don't have one - please use our Azure Free Trail account opportunity - https://azure.microsoft.com/de-de/free/.

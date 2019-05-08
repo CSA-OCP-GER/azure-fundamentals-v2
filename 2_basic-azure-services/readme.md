@@ -1,6 +1,6 @@
 # Core Azure Services
 
-Content:
+## Content:
 
 - Core Azure architectural components
 - Core Azure services and products

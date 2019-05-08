@@ -1,6 +1,6 @@
 # Basic cloud concepts
 
-Content:
+## Content
 
 - Why cloud services?
 - Types of cloud models
