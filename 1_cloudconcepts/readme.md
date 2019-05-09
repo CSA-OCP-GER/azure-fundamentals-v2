@@ -19,9 +19,11 @@ https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR3jbLunQ
 
 Links
 
-<https://azure.microsoft.com/en-us/overview/what-is-cloud-computing/>
-<https://azure.microsoft.com/en-us/overview/cloud-computing-dictionary/>
-<https://azure.microsoft.com/en-us/overview/hybrid-cloud/>
-<https://azure.microsoft.com/en-us/overview/what-is-iaas/>
-<https://azure.microsoft.com/en-us/overview/what-is-paas/>
-<https://azure.microsoft.com/en-us/overview/what-is-saas/>
+|Topic|Link|
+|-----|----|
+|Cloud Computing|<https://azure.microsoft.com/en-us/overview/what-is-cloud-computing/>|
+|Dictionary|<https://azure.microsoft.com/en-us/overview/cloud-computing-dictionary/>|
+|Hybrid Cloud|<https://azure.microsoft.com/en-us/overview/hybrid-cloud/>|
+|IaaS|<https://azure.microsoft.com/en-us/overview/what-is-iaas/>|
+|Paas|<https://azure.microsoft.com/en-us/overview/what-is-paas/>|
+|SaaS|<https://azure.microsoft.com/en-us/overview/what-is-saas/>|
