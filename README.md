@@ -4,7 +4,7 @@ The intend of this bootcamp is to begin the journey with Azure. The first step w
 
 The bootcamp is divided into four modules:
 
-1. [Cloud concepts](\1_cloudconcepts\readme.md)
+1. [Cloud concepts](/1_cloudconcepts/readme.md)
 2. [Basic Azure services](\2_basic-azure-services\readme.md)
 3. [Security, Compliance and Trust](\2_basic-azure-services\readme.md)
 4. [Azure pricing and support](\4_azure-pricing-support\readme.md)
