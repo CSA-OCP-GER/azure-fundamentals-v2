@@ -23,7 +23,7 @@
 
 ## Additional information
 
-Links
+**Links**
 |Topic|Link|
 |-----|----|
 |Governance|<https://docs.microsoft.com/de-de/learn/modules/intro-to-governance/>|
