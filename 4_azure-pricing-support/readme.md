@@ -22,7 +22,6 @@
 
 ## Additional information
 
-Links
 |Topic|Link|
 |-----|----|
 |Azure Price calculator|<https://azure.microsoft.com/de-de/pricing/calculator/>|
