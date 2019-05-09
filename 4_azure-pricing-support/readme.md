@@ -26,4 +26,4 @@
 |-----|----|
 |Azure Price calculator|<https://azure.microsoft.com/de-de/pricing/calculator/>|
 |Azure TCO calculator|<https://azure.microsoft.com/en-us/pricing/tco/calculator/>|
-|Online learning - cost prediction||<https://docs.microsoft.com/de-de/learn/modules/predict-costs-and-optimize-spending/>|
+|Online learning - cost prediction|<https://docs.microsoft.com/de-de/learn/modules/predict-costs-and-optimize-spending/>|
