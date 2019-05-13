@@ -6,7 +6,7 @@ The bootcamp is divided into four modules:
 
 1. [Cloud concepts](/1_cloudconcepts/readme.md)
 2. [Basic Azure services](/2_basic-azure-services/readme.md)
-3. [Security, Compliance and Trust](/2_basic-azure-services/readme.md)
+3. [Security, Compliance and Trust](/3_security-compliance-trust/readme.md)
 4. [Azure pricing and support](/4_azure-pricing-support/readme.md)
 
 All modules will have a small quiz at the end to check your earned knowledge.
