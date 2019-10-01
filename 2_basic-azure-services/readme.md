@@ -13,6 +13,8 @@
 
 ## Exercise 1 - First Steps in Azure
 
+<details><summary>Step by Step Guide - Click to open</summary><p>
+
 ### Step 1
 
 Create a Network in Azure with the following parameter:
@@ -26,6 +28,9 @@ Create a Network in Azure with the following parameter:
 ### Step 2
 
 Create a Storage Account and upload any picture
+
+
+</p></details>
 
 ## Exercise 2 - Create a VM in Azure
 
