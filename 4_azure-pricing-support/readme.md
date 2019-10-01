@@ -12,7 +12,7 @@
 
 [slide deck](4_azure-pricing-support.pptx)
 
-## Exercise 1 - Monitor
+## Exercise 1 - Price Calculator
 
 [price calculator](https://docs.microsoft.com/de-de/learn/modules/predict-costs-and-optimize-spending/2-estimate-costs-with-the-azure-pricing-calculator)
 
