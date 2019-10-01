@@ -12,8 +12,7 @@
 
 ## Quiz
 
-[Online quiz for this module](
-https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR3jbLunQYZ9MtHvpDOQLlT1UM0ZNUzFBWTlYV04xUVY3UFEwSDFSWEs1NS4u)
+[Online quiz for this module](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR3jbLunQYZ9MtHvpDOQLlT1UMjg4VDVYTjU4Slc0QkhCSzU3Nk1WUEkyNS4u)
 
 ## Additional information
 

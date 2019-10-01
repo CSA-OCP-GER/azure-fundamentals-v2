@@ -18,7 +18,7 @@
 
 ## Quiz
 
-[Online quiz for this module](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR3jbLunQYZ9MtHvpDOQLlT1UQ0VKTjFHV1EyRUtIQVBHOTc3WUdTSTVPNy4u)
+[Online quiz for this module](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR3jbLunQYZ9MtHvpDOQLlT1UN0o0WkdaMlM2Vkg5RzgyWjRLMFFHQ05QWi4u)
 
 ## Additional information
 

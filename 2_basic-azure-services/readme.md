@@ -39,7 +39,7 @@ Create a Storage Account and upload any picture
 
 ## Quiz
 
-[Online quiz for this module](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR3jbLunQYZ9MtHvpDOQLlT1UMDdWOUM2RjdUNFk5RzBWVEtVTEZPOTY0Ty4u)
+[Online quiz for this module](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR3jbLunQYZ9MtHvpDOQLlT1UOUtBMTFHTVdQVk5OWlo0UElZWDhaTklWVC4u)
 
 ## Additional information
 
