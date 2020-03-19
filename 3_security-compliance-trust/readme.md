@@ -149,10 +149,6 @@ In RBAC, to remove access, you remove a role assignment.
 
 </p></details>
 
-## Quiz
-
-[Online quiz for this module](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR3jbLunQYZ9MtHvpDOQLlT1UODA5VTk3RUJBS1hBMEs5MEJGMlUwVDJVQi4u)
-
 ## Additional information
 
 |Topic|Link|

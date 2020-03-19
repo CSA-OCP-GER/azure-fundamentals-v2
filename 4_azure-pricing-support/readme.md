@@ -16,10 +16,6 @@
 
 [price calculator](https://docs.microsoft.com/de-de/learn/modules/predict-costs-and-optimize-spending/2-estimate-costs-with-the-azure-pricing-calculator)
 
-## Quiz
-
-[Online quiz for this module](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR3jbLunQYZ9MtHvpDOQLlT1UN0o0WkdaMlM2Vkg5RzgyWjRLMFFHQ05QWi4u)
-
 ## Additional information
 
 |Topic|Link|

@@ -174,7 +174,7 @@ You receive an error, saying request timed out. The ping fails, because ping use
 20. To allow *vm2* to ping *vm1* enter the below command. This command allows ICMP inbound through the Windows firewall:
 
 ````PowerShell
-New-NetFirewallRule –DisplayName “Allow ICMPv4-In” –Protocol ICMPv4 
+New-NetFirewallRule –DisplayName "Allow ICMPv4-In" –Protocol ICMPv4 
 ````
 
 21.  Connect to *VM2* as has been done for *VM1*, using rdp. i.e. open **vm2** properties and click the **Connect** button to download and then connect vis RDP
@@ -190,9 +190,6 @@ You should now be able to *ping the vm1* virtual machine successfully, because I
 
 >**Note:** Remember to remove any newly created Azure resources that you no longer use. Removing unused resources ensures you will not incur unexpected costs. Remove unused resources by deleting the Resource Group that the unused resources belong to.
 </p></details>
-## Quiz
-
-[Online quiz for this module](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR3jbLunQYZ9MtHvpDOQLlT1UOUtBMTFHTVdQVk5OWlo0UElZWDhaTklWVC4u)
 
 ## Additional information
 

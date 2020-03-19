@@ -10,10 +10,6 @@
 
 [slide deck](1_cloudconcept.pptx)
 
-## Quiz
-
-[Online quiz for this module](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR3jbLunQYZ9MtHvpDOQLlT1UMjg4VDVYTjU4Slc0QkhCSzU3Nk1WUEkyNS4u)
-
 ## Additional information
 
 Links
